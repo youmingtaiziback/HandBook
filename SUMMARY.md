@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [git命令](gitming-ling.md)
+* [git](gitming-ling.md)
+* [CocoaPods](cocoapods.md)
 

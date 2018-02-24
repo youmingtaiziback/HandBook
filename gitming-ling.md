@@ -28,5 +28,15 @@
 
   * 删除所有存储的进度
 
+* git checkout -b serverfix origin/serverfix
+  * 原始方式
+* git checkout --track origin/serverfix
+  * 推荐方式
+* * * * git checkout -b serverfix origin/serverfix 
+  2. 快捷方式 --track 推荐使用
+  $ x
+  3. 本地分支别名,感觉没什么卵用
+  $ git checkout -b sf origin/serverfix
+
 
 

@@ -33,7 +33,9 @@
   * 原始方式
 
 * git checkout --track origin/serverfix
+
   * 推荐方式
+
 * git checkout -b sf origin/serverfix
   * 本地分支别名,感觉没什么卵用
 

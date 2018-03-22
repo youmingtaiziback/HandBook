@@ -37,7 +37,10 @@
   * 推荐方式
 
 * git checkout -b sf origin/serverfix
+
   * 本地分支别名,感觉没什么卵用
+
+# [git rebase使用笔记](https://www.jianshu.com/p/cca69cb695a6)
 
 
 
